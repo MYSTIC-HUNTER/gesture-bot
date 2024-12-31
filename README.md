@@ -1,10 +1,8 @@
 # Virual-Mouse
 
-A virtual mouse is software that allows users to give mouse inputs to a system without using an actual mouse.\n
-To the extreme it can also be called as hardware because it uses an ordinary web camera.\n
-A virtual mouse can usually be operated with multiple input devices, which may include an\n
-actual mouse or a computer keyboard. Virtual mouse which uses web camera works with the\n
-help of different image processing techniques.
+A virtual mouse is software that allows users to give mouse inputs to a system without using an actual mouse.
+To the extreme it can also be called as hardware because it uses an ordinary web camera.
+A virtual mouse can usually be operated with multiple input devices, which may include an actual mouse or a computer keyboard. Virtual mouse which uses web camera works with the help of different image processing techniques.
 # How to setup and run
 
   ### Pre-requisites
@@ -30,3 +28,7 @@ help of different image processing techniques.
   Step 4:
   bash 
   python Virtual_Mouse.py
+
+#REQUIREMENTS:
+- ARDUINO UNO OR ANY OTHER ARDUINO UNIT
+- 2X ULTRASONIC HC-SR04 SENSORS
